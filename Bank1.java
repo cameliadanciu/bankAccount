@@ -1,3 +1,8 @@
+/*
+This program simulates a banking system
+ ** creates account
+ ** access the account using the information (unique account number and pin number)
+*/
 package bank1;
 
 import java.util.Scanner;
